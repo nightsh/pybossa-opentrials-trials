@@ -1,0 +1,5 @@
+{
+  "name": "OpenTrials Trials Matching",
+  "short_name": "opentrials-trials-matches",
+  "description": "Assess database correctness by comparing matched trials"
+}
