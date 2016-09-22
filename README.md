@@ -1,11 +1,12 @@
 ## Description
 
-This [PyBossa]() project enables the crowdsourcing of new or modified
-drugs indications from FDA approvals.
+This [PyBossa]() project exposes the trials matches done on OpenTrials for
+deduplication reasons, allowing the crowd to vote on specific matches as
+correct or incorrect.
 
-Usually, an FDA approval consists of several (PDF) documents. The user is
-required to read through the document, find the relevant information and
-complete a web form once she finds it.
+For this project the trials will be presented two by two, with links to the
+original sources where they were collected from. Users can visit the sources,
+then go back to the task page and cast their vote.
 
 A PyBossa project is centered around **tasks**. A task is the user's atomic
 operation of solving a given problem.
